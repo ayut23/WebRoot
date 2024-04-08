@@ -1,0 +1,28 @@
+
+body {
+    font-family: Arial, sans-serif;
+}
+
+
+body {
+    color: #333; 
+}
+
+
+a {
+    color: blue; 
+}
+
+a:hover {
+    color: darkblue; 
+}
+
+
+body {
+    background-color: #f0f0f0; }
+
+div {
+    border-color: #ccc; }
+p {
+    font-size: 16px; 
+}
